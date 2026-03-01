@@ -1,0 +1,5 @@
+{
+  "name": "Toxic Lab Def",
+  "description": "Analizador de toxicidad y ADN emocional para el feed de X (Twitter) en tiempo real.",
+  "requestFramePermissions": []
+}

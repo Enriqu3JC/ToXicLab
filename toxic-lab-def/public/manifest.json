@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Toxic Lab",
+  "version": "1.0",
+  "description": "Analizador de toxicidad y ADN emocional para el feed de X (Twitter) en tiempo real.",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["https://twitter.com/*", "https://x.com/*"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*", "https://x.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
