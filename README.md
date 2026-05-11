@@ -1,15 +1,17 @@
-# My Project Title
+# ᴛᴏXɪᴄ ʟᴀʙ – a chrome extension for X
 
 ```text
-88888888888------Y88b---d88P-d8b----------
-----888-----------Y88b-d88P--Y8P----------
-----888------------Y88o88P----------------
-----888---.d88b.----Y888P----888--.d8888b-
-----888--d88""88b---d888b----888-d88P"----
-----888--888--888--d88888b---888-888------
-----888--Y88..88P-d88P-Y88b--888-Y88b.----
-----888---"Y88P"-d88P---Y88b-888--"Y8888P-
-🛠 How to Install
+$$$$$$$$$$$     Y$$b   d$$P                  .d$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$b.
+"""Y$$$P"""      Y$$b d$$P  d$b              $$$$   $$$$$$$$$$$$P     Y$$$$$$$'      'Y$$$$$
+    $$$           Y$$v$$P   Y$P              $$$$   $$$$$$$$$$$P   A   Y$$$$$$   GSD   $$$$$
+    $$$  .d$$b.    Y$$$P         .d$$$$b     $$$$   $$$$$$$$$$P   dIb   Y$$$$$        *$$$$$
+    $$$ d$$""$$b   d$$$b    $$$ d$$P'        $$$$   $$$$$$$$$P           Y$$$$   $$ b  Y$$$$
+    $$$ $$$  $$$  d$$$$$b   $$$ $$$          $$$$   $$$$$$$$P   d$$$$$b   Y$$$   $$$P  d$$$$
+    $$$ Y$$……$$P d$$P Y$$b  $$$ Y$$b.        $$$$        $$P   d$$$$$$$b   Y$$.      .d$$$$$
+    $$$  "Y$$P" d$$P   Y$$b $$$  "Y$$$$P     'Y$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P'
+```
+
+## How to Install
 Open Extensions Page
 
 Open your browser and type chrome://extensions/ in the address bar.
@@ -28,10 +30,11 @@ A file explorer window will open. Navigate to your project folder.
 
 Select the dist folder and click Select Folder.
 
-🔄 How to Update
-Whenever you make changes to the code or the dist folder is updated:
-
-Go back to chrome://extensions/.
+## How to Update
+Whenever you make changes to the code or the dist folder is updated go back to 
+``` link
+chrome://extensions/.
+```
 
 Find the extension card.
 
